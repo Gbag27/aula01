@@ -1,0 +1,40 @@
+.jogos {
+    color: rgb(231, 231, 231);
+    text-align: center;
+    display: flex;
+    width: 50%;
+    margin: 0 auto; 
+    font-family: sans-serif;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(40, 40, 50)
+}
+.header {
+    text-align: center;
+    color: rgb(231, 231, 231);
+}
+#full{
+    color: yellow;
+}
+#empty{
+    color: white;
+}
+#imgs{
+    width: 225px;
+}
+#wake{
+    border-radius: 10px;
+    background-color: rgb(70, 70, 70);
+    margin: 0 auto; 
+}
+#medo{
+    border-radius: 10px;
+    background-color: rgb(70, 70, 70);
+    margin: 0 auto; 
+}
+#hill{
+    border-radius: 10px;
+    background-color: rgb(70, 70, 70);
+    margin: 0 auto; 
+}
